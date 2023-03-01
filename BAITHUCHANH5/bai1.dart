@@ -4,6 +4,6 @@ void main() {
   // creating file object
   File file = File('test.txt');
   // read file
-   file.writeAsStringSync('Nguyễn Thị Ngọc Hiền ');
+   file.writeAsStringSync('Pham Thi Quynh Anh');
   print('Ten da duoc them!');
 }
